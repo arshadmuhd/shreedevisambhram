@@ -771,7 +771,7 @@ main .meetOurTeamContainer .contentWriterContainer button {
   }
   main .meetOurTeamContainer .coreMemberContainer button {
     background-color: transparent;
-    font-size: 1.2em;
+    font-size: revert;
     font-family: "Poppins", sans-serif;
     font-weight: bold;
     color: orange;
@@ -804,9 +804,26 @@ main .meetOurTeamContainer .contentWriterContainer button {
     text-align: left;
     margin-bottom: 20px;
   }
+  /* main .meetOurTeamContainer .contentWriterContainer button {
+    background-color: transparent;
+    font-size: revert;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    color: orange;
+    padding: 0.5em 3em;
+    border: none;
+    border-radius: 15px;
+    margin: 0.5em;
+  } */
+}
+/*# sourceMappingURL=AboutUs.css.map */
+
+
+
+@media (max-width: 600px ) {
   main .meetOurTeamContainer .contentWriterContainer button {
     background-color: transparent;
-    font-size: 1.2em;
+    font-size: inherit;
     font-family: "Poppins", sans-serif;
     font-weight: bold;
     color: orange;
@@ -815,5 +832,38 @@ main .meetOurTeamContainer .contentWriterContainer button {
     border-radius: 15px;
     margin: 0.5em;
   }
+ 
+
 }
-/*# sourceMappingURL=AboutUs.css.map */
+@media (max-width: 412px ) {
+  main .meetOurTeamContainer .contentWriterContainer button {
+    background-color: transparent;
+    font-size: revert;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    color: orange;
+    padding: 0.5em 3em;
+    border: none;
+    border-radius: 15px;
+    margin: 0.5em;
+  }
+ 
+
+}
+
+@media (max-width: 280px ) {
+  main .meetOurTeamContainer .contentWriterContainer button {
+    background-color: transparent;
+    font-size: x-small;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    color: orange;
+    padding: 0.5em 3em;
+    border: none;
+    border-radius: 15px;
+    margin: 0.5em;
+  }
+ 
+
+}
+
