@@ -121,7 +121,7 @@ $(".button-solid10").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">PAPYRUS</p><p>[Mech]]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: SDIT Building 2</p><p>Student Coordinator:<br>Mr. Manoj V. Poojary - 9483368986</p><p id="rules">Rules: <br />Max of two make a team. Soft copy of abstract is to be mailed to “sditsambhrammech2023@gmail.com” on or before 6th may 2023. Based on the peering review of the abstract, few papers will be selected for presentation. Shortlisted participants have to send complete paper on or before Paper to be submitted in IEEE format. Time provided for presentation is 8+2 mins (8 for ppt and 2 for Q&A). In all cases, the judges decision will be final and binding.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">PAPYRUS</p><p>[Mech]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: SDIT Building 2</p><p>Student Coordinator:<br>Mr. Manoj V. Poojary - 9483368986</p><p id="rules">Rules: <br />Max of two make a team. Soft copy of abstract is to be mailed to “sditsambhrammech2023@gmail.com” on or before 6th may 2023. Based on the peering review of the abstract, few papers will be selected for presentation. Shortlisted participants have to send complete paper on or before Paper to be submitted in IEEE format. Time provided for presentation is 8+2 mins (8 for ppt and 2 for Q&A). In all cases, the judges decision will be final and binding.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -156,7 +156,7 @@ $(".button-solid13").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">MACHINIST</p><p>[ECE]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: Machine Shop Lab</p><p>Student Coordinator:<br>Mr. Chirag K - 9113558499</p><p id="rules">Rules: <br />Max of two make a team. Participants are required to perform various lathe operations on the given work piece in a limited  amount of time. The profile cutting for the event will be given on the spot. There will be total 2 rounds Round 1: Participants will be tested for their knowledge and skills about lathe machine Round 2: shortlisted teams from Round 1 will perform profile cutting on given work piece. The team producing the end product with least errors will be the winners. Participants should carry workshop aprons and wear leather shoes. The decision of the judges will be treated as final.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">MACHINIST</p><p>[Mech]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: Machine Shop Lab</p><p>Student Coordinator:<br>Mr. Chirag K - 9113558499</p><p id="rules">Rules: <br />Max of two make a team. Participants are required to perform various lathe operations on the given work piece in a limited  amount of time. The profile cutting for the event will be given on the spot. There will be total 2 rounds Round 1: Participants will be tested for their knowledge and skills about lathe machine Round 2: shortlisted teams from Round 1 will perform profile cutting on given work piece. The team producing the end product with least errors will be the winners. Participants should carry workshop aprons and wear leather shoes. The decision of the judges will be treated as final.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -239,7 +239,7 @@ $(".button-solid20").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">App’oholica</p><p>[CSE/ISE]]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: 1st floor ISE Lab</p><p>Student Coordinator:<br>Ms. Shravya Ullal - 9108200173</p><p id="rules">Rules: <br />Maximum 4 members per team. Duration:2.5 hrs. Software: Android studio. Language: Java or kotlin. Topic will be given on spot. Participants have to get laptop, mobile and Internet connection. Judge’s decision will be final.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">App’oholica</p><p>[CSE/ISE]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: 1st floor ISE Lab</p><p>Student Coordinator:<br>Ms. Shravya Ullal - 9108200173</p><p id="rules">Rules: <br />Maximum 4 members per team. Duration:2.5 hrs. Software: Android studio. Language: Java or kotlin. Topic will be given on spot. Participants have to get laptop, mobile and Internet connection. Judge’s decision will be final.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -251,7 +251,7 @@ $(".button-solid21").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">BATTLE GROUND</p><p>[Committee]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: 1st floor ISE LAB/ VLSI LAB  </p><p>Student Coordinator:<br>Mr. Pavan B - 7892958941	</p><p id="rules">Rules: <br />5 make a team. No extra accessories like joystick or headset will be provided. No cheat codes!.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">BATTLE GROUND</p><p>[CSE/ISE]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: 1st floor ISE LAB/ VLSI LAB  </p><p>Student Coordinator:<br>Mr. Pavan B - 7892958941	</p><p id="rules">Rules: <br />5 make a team. No extra accessories like joystick or headset will be provided. No cheat codes!.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -395,7 +395,7 @@ $(".button-solid33").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">FEELZ FOR REELZ </p><p>[Committee]</p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: SDIT Building 2</p><p>Student Coordinator:<br>Ms. KAVYA P BANGERA - 7204149564</p><p id="rules">Rules: <br />.5(five) Make a team. Reel video should not exceed 60 seconds. Theme will be given. The reel must be an original creation. Any offensive, name-calling, derogatory remarks, or regional slang towards any person or community should not be used. Judge’s decision will be final. </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">FEELZ FOR REELZ </p><p>[Committee]</p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: SDIT Building 2</p><p>Student Coordinator:<br>Ms. KAVYA P BANGERA - 7204149564</p><p id="rules">Rules: <br />5(five) Make a team. Reel video should not exceed 60 seconds. Theme will be given. The reel must be an original creation. Any offensive, name-calling, derogatory remarks, or regional slang towards any person or community should not be used. Judge’s decision will be final. </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
