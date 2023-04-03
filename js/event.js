@@ -215,7 +215,7 @@ $(".button-solid18").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">GRAPHIC DESIGNING </p><p>[CSE/ISE]</</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: 1st floor VLSI Lab</p><p>Student Coordinator:<br>Ms. Harshitha - 7899996964</p><p id="rules">Rules: <br />2 make a team. Necessary software’s will be provided. No gadgets are allowed. Time duration: 1.5 hrs. Judges’ decision will be final..</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">POSTER DESIGNING </p><p>[CSE/ISE]</</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: 1st floor VLSI Lab</p><p>Student Coordinator:<br>Ms. Harshitha - 7899996964</p><p id="rules">Rules: <br />2 make a team. Necessary software’s will be provided. No gadgets are allowed. Time duration: 1.5 hrs. Judges’ decision will be final..</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
